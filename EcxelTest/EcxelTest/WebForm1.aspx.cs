@@ -20,10 +20,15 @@ namespace EcxelTest
         }
         public void play()
         {
+        //create a list of the object MyItems
             List<MyItems> items = new List<MyItems>();
+            //open an instance of the excel application
             Excel.Application exclApp = new Microsoft.Office.Interop.Excel.Application();
+            // open the spreadsheet
             Excel.Workbook wkbook = exclApp.Workbooks.Open("D:/Coding/excelTest.xlsx");
+            //get the first paage of the spreadsheet
             Excel._Worksheet wkSheet = wkbook.Worksheets[1];
+            //find the range of used cells.
             Excel.Range usedRange = wkSheet.UsedRange;
             
             int rowCounter = usedRange.Rows.Count;
