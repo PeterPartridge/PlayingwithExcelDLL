@@ -1,0 +1,7 @@
+c:\users\peterplay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\obj\Debug\EcxelTest.csprojResolveAssemblyReference.cache
+c:\users\peterplay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\bin\EcxelTest.dll.config
+c:\users\peterplay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\bin\EcxelTest.dll
+c:\users\peterplay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\bin\EcxelTest.pdb
+c:\users\peterplay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\obj\Debug\EcxelTest.dll
+c:\users\peterplay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\obj\Debug\EcxelTest.pdb
+C:\Users\PeterPlay\documents\visual studio 2015\Projects\EcxelTest\EcxelTest\obj\Debug\EcxelTest.csproj.ResolveComReference.cache
