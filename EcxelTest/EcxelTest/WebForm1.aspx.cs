@@ -35,7 +35,7 @@ namespace EcxelTest
             while (rowCount < rowCounter)
             {
                
-                    items.Add(new MyItems { Thingy = usedRange.Cells[rowCount, colCount].Value2.ToString(), Thingy2 = usedRange.Cells[rowCount + 1, colCount + 1].Value2.ToString() });
+                    items.Add(new MyItems { Thingy = usedRange.Cells[rowCount, colCount].Value2.ToString(), Thingy2 = usedRange.Cells[rowCount, colCount + 1].Value2.ToString() });
                    
                 
                 
